@@ -1,9 +1,0 @@
-Test text using appendFile
-
- Has it appended the text?
-
- Has it appended the text?
-
- Has it appended the text?
-
- Has it appended the text?
