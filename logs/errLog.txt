@@ -1,2 +1,3 @@
 20250716	15:41:31	bc511579-2c10-4f11-9d34-1b8a298f808c	Error: Not Allowed by CORS
 20250716	15:41:31	f2badefc-7413-4d28-924e-ccd0e05624b4	Error: Not Allowed by CORS
+20250717	16:50:57	e184edff-3d94-4500-b935-98ba78e4a85e	TypeError: Cannot read properties of undefined (reading 'firstname')
