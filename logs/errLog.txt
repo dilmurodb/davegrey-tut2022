@@ -1,3 +1,7 @@
 20250716	15:41:31	bc511579-2c10-4f11-9d34-1b8a298f808c	Error: Not Allowed by CORS
 20250716	15:41:31	f2badefc-7413-4d28-924e-ccd0e05624b4	Error: Not Allowed by CORS
 20250717	16:50:57	e184edff-3d94-4500-b935-98ba78e4a85e	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250724	09:54:04	4255b7dc-ef46-4687-94d3-f23783eb668c	TypeError: Cannot read properties of undefined (reading 'id')
+20250724	09:54:24	82be42f2-d482-4d5f-8190-dcaf31049b2a	TypeError: Cannot read properties of undefined (reading 'id')
+20250724	09:54:33	bf71c667-4333-4d76-b840-f99fa69f6b45	TypeError: Cannot read properties of undefined (reading 'id')
+20250724	10:04:58	62361b4a-3ae0-4901-92cf-02d464721c58	SyntaxError: Unexpected end of JSON input
